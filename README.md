@@ -1,1 +1,2 @@
 # Python
+This project involves data exploration andanalysis of a YouTube dataset. Tasks include data cleaning, handling missing values, converting data types, and deriving insights. Key findings includethe distribution of videos across months,identifying top and bottom channels, and exploring relationships between views and dislikes. The project aims to understand video trends and engagement metrics comprehensively.
